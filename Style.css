@@ -1,0 +1,9 @@
+/* .col-md-4{
+    max-width: 30% !important;
+} */
+
+@media(max-width:576px){
+    .card-img{
+        height: 30vh !important;
+    }
+}
